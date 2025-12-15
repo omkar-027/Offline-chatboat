@@ -1,0 +1,9 @@
+ThinkNest is an AI-powered productivity platform designed to help teams manage tasks, collaborate, and automate workflows effectively. 
+
+Founded in 2024, ThinkNest integrates artificial intelligence to simplify decision-making, reduce repetitive work, and provide data-driven insights. 
+
+The platform offers features such as smart task recommendations, natural language search, document summarization, and project tracking dashboards.
+
+ThinkNest is available on web, Android, and iOS platforms. It supports integration with popular tools like Google Drive, Slack, Trello, and GitHub.
+
+Our mission is to enable professionals and teams to focus on meaningful work while ThinkNest takes care of the rest.

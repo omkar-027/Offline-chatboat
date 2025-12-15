@@ -1,0 +1,14 @@
+Q: What is ThinkNest?
+A: ThinkNest is an AI-powered task management and productivity platform for teams and individuals.
+
+Q: What features does ThinkNest offer?
+A: ThinkNest includes task automation, document summarization, smart notifications, AI chat, project boards, and analytics.
+
+Q: Is ThinkNest available on mobile?
+A: Yes, ThinkNest is available on both Android and iOS platforms.
+
+Q: Can I use ThinkNest offline?
+A: ThinkNest provides offline support for key features. Your data syncs automatically when you're back online.
+
+Q: How do I get support?
+A: You can contact support@thinknest.ai or visit the Help section in the ThinkNest app.
